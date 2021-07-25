@@ -24,12 +24,12 @@ This is a project to predict stock recommendations
  -Aim of DQN is to train a deep neural network to approximate the Q-value function and predict Q values of each state action pair.
  
  ## Assignment 2: 
- - To develop a DQN model and q-leanring agent to predict whether the stock price would go up,down or would remain sideways on the t^th day on the basis of given stock prices till (t-1)th day.
+ - To develop a DQN model and q-leanring agent to predict whether the stock price would go up,down or would remain sideways on the t^th day on the basis of given stock prices till (t-1)th day and maximise profit over a period of 2 years.
  
  ## Dataset : 
     -2009 January-2017 December data for training and then the 2018 January-2019 December data to do the test.
  ## Profit :
-   - My agent earned a profit of **Rs. 2300** on investment of Rs. 20000.  
+   - My agent earned a profit of **Rs. 2300** on investment of Rs. 20000 on the stocks  
 
 
 
