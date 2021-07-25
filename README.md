@@ -29,7 +29,7 @@ This is a project to predict stock recommendations
  ## Dataset : 
     -2009 January-2017 December data for training and then the 2018 January-2019 December data to do the test.
  ## Profit :
-   - My agent earned a profit of **Rs. 2300** on investment of Rs. 20000 on the stocks  
+   - My agent earned a profit of **Rs. 2300** on investment of Rs. 20000 on the stocks of CISCO SYSTEMS INC. 
 
 
 
